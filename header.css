@@ -1,0 +1,33 @@
+.header {
+    list-style: none;
+    display: flex;
+    background-color: #404149;
+    justify-content: space-evenly;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    flex-direction: row;
+    color: #D0CCCD;
+    text-decoration: none;
+}
+
+.header-link {
+    text-decoration: none;
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+    color: #D0CCCD;
+    font-weight: bold;
+}
+
+a:link {
+    color: #D0CCCD;
+    text-decoration: none;
+}
+
+a:visited {
+    color: #D0CCCD;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #4DA997;
+}
